@@ -2,7 +2,7 @@ print("hellow world")
 
 
 #변수 선언
-name = "Alice" 
+name = "황태영" 
 age = 25
 score = 95.5
 
